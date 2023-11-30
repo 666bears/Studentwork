@@ -1,20 +1,22 @@
 ### 获取地址:
-#### 项目获取地址：https://www.666bear.com/3828.html
+#### 项目获取地址：https://www.666bear.com/3716.html
 #### qq 3289948684
 #### 项目演示地址：https://space.bilibili.com/351929960?spm_id_from=333.1007.0.0
 #### 接毕业设计和论文
 #### 接网站建设、小程序、H5、APP、各种系统、样式修改等
 
 #### 一、 项目介绍
-基于SpringBoot Vue学生作业管理系统
+基于SpringBoot Vue养老院管理
 
-角色：管理员、企业、用户
+角色：管理员、企业、老人子女、老人
 
-管理员：管理员进入主页面，主要功能包括对系统首页、个人中心、学生管理、教师管理、作业信息管理、课程分类管理、学习模块管理、教学评价管理、学习情况管理、交流论坛、系统管理等进行操作
+管理员：管理员登录进入养老院管理系统可以对系统首页、个人中心、服务人员管理、老人管理、老人子女管理、老人档案管理、社区活动管理、活动记录管理、床位信息管理、身体数据管理、体检记录管理、系统管理等功能，进行详细操作
 
-学生：学生点击后台管理，然后页面跳转到系统后，主要包括系统首页、个人中心、作业信息管理、教学评价管理等功能
+服务人员：服务人员点击后台管理，然后页面跳转到养老院管理系统可以查看系统首页、个人中心、老人管理、老人档案管理、床位信息管理、身体数据管理、体检记录管理等内容，
 
-教师：教师登录进入系统，在教师主页面，主要包括系统首页、个人中心、学生管理、作业信息管理、课程分类管理、学习模块管理、教学评价管理、学习情况管理等功能进行操作
+老人子女：老人子女登录进入养老院管理系统可以查看系统首页、个人中心、老人档案管理、活动记录管理、身体数据管理、体检记录管理等
+
+老人：社区活动、公告信息、后台管理、呼叫服务、个人中心、活动报名、评论、收藏、登录注册
 
 #### 二、项目技术
 后端： SpringBoot+Mybatis-Plus
@@ -35,19 +37,19 @@ JDK版本：1.8
 项目管理：Maven
 Node版本：14
 #### 四、运行截图（点图片可放大）
-![1701169683281](https://github.com/666bears/Studentwork/assets/143094776/d168e773-962e-4dbe-b624-7d93efd67b59)
+![1701095279725](https://github.com/666bears/Studentwork/assets/143094776/aea7abc7-59cb-471f-bfc3-7ef10098453b)
+![1701095279725](https://github.com/666bears/Studentwork/assets/143094776/e17bbf6b-155d-401f-86dd-5d26c98ee284)
 
-![1701169055175](https://github.com/666bears/Studentwork/assets/143094776/d615c126-15f4-4b48-85ac-24caa77e57e0)
-![1701169073950](https://github.com/666bears/Studentwork/assets/143094776/3ec29b24-8b21-455e-95dc-18f7c4e05e97)
-![1701169091927](https://github.com/666bears/Studentwork/assets/143094776/e8d9aff7-81e6-495d-8428-019af9a82661)
-![1701169134844](https://github.com/666bears/Studentwork/assets/143094776/06310f56-6310-48d3-9a42-6fae743dfa01)
-![1701169134844](https://github.com/666bears/Studentwork/assets/143094776/e314bffb-2353-41cc-8fae-8c35a84f4925)
-![1701169134844](https://github.com/666bears/Studentwork/assets/143094776/06517d0d-3b7c-43f9-a79b-c49ada0ce56c)
-![1701169160500](https://github.com/666bears/Studentwork/assets/143094776/242c69ed-34d2-4079-8691-295b33d2f164)
-![1701169214313](https://github.com/666bears/Studentwork/assets/143094776/852a9bbb-ea04-4a3e-bd42-e7390a815a6d)
+![1701093384275](https://github.com/666bears/Studentwork/assets/143094776/2a56268e-415b-4977-bf0a-c18dbd1e10d6)
 
+![1701095511977](https://github.com/666bears/Studentwork/assets/143094776/1729c5dc-24cc-4c15-8f6d-a7e897513703)
+![1701095526157](https://github.com/666bears/Studentwork/assets/143094776/fca95a83-e062-4924-8177-473e33f2320e)
+![1701095664154](https://github.com/666bears/Studentwork/assets/143094776/e27578f8-a671-42f7-8bc7-a3666862bdbe)
+![1701095693938](https://github.com/666bears/Studentwork/assets/143094776/222a15d8-aaec-4ecf-888c-ff88a7696d7d)
 
-
+![1701095721137](https://github.com/666bears/Studentwork/assets/143094776/8940df78-ee45-42d3-a794-836a9b43906f)
+![1701095772284](https://github.com/666bears/Studentwork/assets/143094776/74e4653e-a389-438a-be15-5a72a80e4a44)
+![1701095812964](https://github.com/666bears/Studentwork/assets/143094776/1ef652ff-b99e-4d90-ac4d-21f5185d90bc)
 
 
 #### 五、安装教程
